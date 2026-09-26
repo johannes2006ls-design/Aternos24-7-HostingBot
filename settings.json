@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "STAC-7R8d.aternos.me",
+    "port": 12728,
     "version": "",
     "try-creative": false
   },
